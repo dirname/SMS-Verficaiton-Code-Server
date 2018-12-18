@@ -1,0 +1,18 @@
+F:\source\repos\SMS Coder demo\SMS Coder demo\obj\Debug\SMS Coder demo.csprojAssemblyReference.cache
+F:\source\repos\SMS Coder demo\SMS Coder demo\obj\Debug\SMS_Coder_demo.Properties.Resources.resources
+F:\source\repos\SMS Coder demo\SMS Coder demo\obj\Debug\SMS Coder demo.csproj.GenerateResource.cache
+F:\source\repos\SMS Coder demo\SMS Coder demo\obj\Debug\SMS Coder demo.csproj.CoreCompileInputs.cache
+F:\source\repos\SMS Coder demo\SMS Coder demo\bin\Debug\SMS Coder demo.exe.config
+F:\source\repos\SMS Coder demo\SMS Coder demo\bin\Debug\SMS Coder demo.exe
+F:\source\repos\SMS Coder demo\SMS Coder demo\bin\Debug\SMS Coder demo.pdb
+F:\source\repos\SMS Coder demo\SMS Coder demo\obj\Debug\SMS Coder demo.exe
+F:\source\repos\SMS Coder demo\SMS Coder demo\obj\Debug\SMS Coder demo.pdb
+F:\source\repos\SMS Coder demo\SMS Coder demo\bin\Debug\Newtonsoft.Json.dll
+F:\source\repos\SMS Coder demo\SMS Coder demo\bin\Debug\Newtonsoft.Json.xml
+F:\source\repos\SMS Coder demo\SMS Coder demo\obj\Debug\SMS Coder demo.csproj.CopyComplete
+F:\source\repos\SMS Coder demo\SMS Coder demo\bin\Debug\Flurl.dll
+F:\source\repos\SMS Coder demo\SMS Coder demo\bin\Debug\Flurl.Http.dll
+F:\source\repos\SMS Coder demo\SMS Coder demo\bin\Debug\Flurl.xml
+F:\source\repos\SMS Coder demo\SMS Coder demo\bin\Debug\Flurl.Http.xml
+F:\source\repos\SMS Coder demo\SMS Coder demo\obj\Debug\SMS_Coder_demo.Main.resources
+F:\source\repos\SMS Coder demo\SMS Coder demo\obj\Debug\SMS_Coder_demo.Form_Send.resources

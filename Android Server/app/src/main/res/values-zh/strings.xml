@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS Coder</string>
+    <string name="log">日志</string>
+    <string name="home">主页</string>
+    <string name="server">服务器</string>
+    <string name="nav_header_subtitle">服务端被动式短信验证系统</string>
+    <string name="ah">SMS Coder\n\n - 服务端被动式短信验证系统 - \n\nAh ! 作品\n</string>
+    <string name="nav_header_title">SMS Coder - Ah ! 作品</string>
+    <string name="license"><u>开源协议</u></string>
+    <string name="yes">确定</string>
+    <string name="clear_log">清空日志</string>
+    <string name="sure_clear_log">确定清空&#160;</string>
+    <string name="sure_clear_notice"> &#160;条日志 ? \n\n注意:此操作不可逆 !</string>
+    <string name="log_cleared">日志已清空.</string>
+    <string name="cancel">取消</string>
+    <string name="logs">日志数:</string>
+    <string name="strip">条</string>
+    <string name="open_log">打开日志</string>
+    <string name="json_error">创建json对象出错</string>
+    <string name="server_error">服务器通信失败</string>
+    <string name="permissioned">已获取权限</string>
+    <string name="permission_failed">权限授以失败</string>
+    <string name="permission_request">请求权限</string>
+    <string name="permission_message">请允许 SMS Coder 接收和读取短信内容,否则可能不能正常工作 !</string>
+    <string name="allow">授权</string>
+    <string name="deny">拒绝</string>
+    <string name="exit">退出</string>
+    <string name="app_version">应用版本:</string>
+    <string name="sender">发件人:</string>
+    <string name="sms_content">&#160;&#160;内容:</string>
+    <string name="new_sms">拦截到新短信</string>
+    <string name="Monitoring_SMS">正在监测短信......</string>
+    <string name="running_background">SMS Coder 正在后台运行</string>
+    <string name="notification_notice">请手动打开通知</string>
+    <string name="Version_Code">\n\n版本号:</string>
+    <string name="Model">\n\n手机型号:</string>
+    <string name="phone_number">\n\n手机号码:</string>
+    <string name="android_version">\n\nAndroid 版本:</string>
+    <string name="sms_counts">\n\n短信条数:</string>
+    <string name="last_intercept">\n\n上次拦截短信时间:</string>
+    <string name="choice_mail_app">请选择邮件类应用</string>
+</resources>

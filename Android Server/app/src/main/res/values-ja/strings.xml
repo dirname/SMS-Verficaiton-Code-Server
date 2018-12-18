@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SMS コーダー</string>
+    <string name="log">ログ</string>
+    <string name="home">ホームページ</string>
+    <string name="server">サーバ</string>
+    <string name="choice_mail_app">メールのアプリケーションを選択してください</string>
+    <string name="nav_header_subtitle">エキサイティングなメール検証システム</string>
+    <string name="ah">SMS コーダー\n\n - エキサイティングなメール検証システム - \n\nAh ! 作品\n</string>
+    <string name="nav_header_title">SMS コーダー - Ah ! 作品</string>
+    <string name="license"><u>開源協議</u></string>
+    <string name="yes">確定</string>
+    <string name="clear_log">清空日誌</string>
+    <string name="sure_clear_log">清空を決める&#160;</string>
+    <string name="log_cleared">ログが空っぽになった.</string>
+    <string name="sure_clear_notice"> &#160;条ログ ? \n\n注意:この操作は不可逆 !</string>
+    <string name="cancel">キャンセル</string>
+    <string name="logs">ログ数:</string>
+    <string name="strip">条</string>
+    <string name="open_log">ログを開く</string>
+    <string name="json_error">jsonオブジェクトのエラーを作成</string>
+    <string name="server_error">サーバ通信の失敗</string>
+    <string name="permissioned">権限を取得した</string>
+    <string name="permission_failed">権限を受けて失敗する</string>
+    <string name="permission_request">権限を求める</string>
+    <string name="permission_message">メールの受信と読み取りを許可してください、そうでなければ正常に仕事ができないかもしれません！</string>
+    <string name="allow">許可</string>
+    <string name="deny">断る</string>
+    <string name="exit">脱退</string>
+    <string name="sure">はい</string>
+    <string name="sender">差出人:</string>
+    <string name="sms_content">&#160;&#160;内容:</string>
+    <string name="new_sms">新しいメールを差し止める</string>
+    <string name="running_background">SMS コーダー 楽屋で運行している</string>
+    <string name="Monitoring_SMS">メールを監視しています......</string>
+    <string name="notification_notice">手動でお知らせください</string>
+    <string name="app_version">アプリケーション:</string>
+    <string name="Version_Code">\n\nバージョン番号:</string>
+    <string name="Model">\n\n携帯型:</string>
+    <string name="phone_number">\n\n携帯番号:</string>
+    <string name="android_version">\n\nAndroid バージョン:</string>
+    <string name="sms_counts">\n\nメールの数:</string>
+    <string name="last_intercept">\n\n前回のメール時間:</string>
+</resources>
